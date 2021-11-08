@@ -14,7 +14,9 @@ $$
 Kolik je vysledny vektor $\vec{w}$?
 $$
 \large
-\mathbb{w} = 1 \cdot (x)+(-1\cdot) y+0\cdot z\
+\mathbb{w} = 1 \cdot (x)+(-1\cdot) y+0\cdot z
+$$
+$$
 \mathbb{w} = (x,-y,0)
 $$
 
