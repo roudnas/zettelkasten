@@ -53,3 +53,4 @@ stdDev = sqrt(stdDev/dataNr);
 [[C]]
 [[pole]]
 [[slozitost]]
+[[BI-PA1]]

@@ -26,3 +26,4 @@ scanf("%99s");
 [[retezce]]
 [[pole]]
 [[C]]
+[[BI-PA1]]

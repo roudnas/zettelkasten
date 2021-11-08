@@ -33,3 +33,4 @@ int *arr = (int *) malloc(ARR_MAX * sizeof(*arr));
 [[pole]]
 [[C]]
 [[pointers]]
+[[BI-PA1]]

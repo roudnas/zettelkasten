@@ -25,3 +25,4 @@ void sieve(char set[], int max) {
 [[pole]]
 [[prvocisla]]
 [[C]]
+[[BI-PA1]]
