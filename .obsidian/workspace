@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "499db9b0420b5978",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8df95ab2d46c2e3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "zettelkasten/Eratosthenovo sito.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1c0a2e909a198da",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a6c77b05913c198",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f27ca8f012b9499",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "157a810eff81903d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d307e3d1467a9d90",
+    "type": "split",
+    "children": [
+      {
+        "id": "30991d169e6b7fb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a0d80ce32970cb9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "zettelkasten/Eratosthenovo sito.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b8df95ab2d46c2e3",
+  "lastOpenFiles": [
+    "zettelkasten/Eratosthenovo sito.md",
+    "zettelkasten/Harmonicka suma.md",
+    "README.md",
+    "zettelkasten/Null pointer.md",
+    "zettelkasten/Multidimenzionalni pole.md",
+    "zettelkasten/Nacitani znaku.md",
+    "zettelkasten/Realna delka pole.md",
+    "zettelkasten/Untitled.md",
+    "zettelkasten/pole.md",
+    "resources/Pasted image 20211108120233.png"
+  ]
+}
