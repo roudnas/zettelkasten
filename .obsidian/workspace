@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Dynamicka alokace pameti.md",
+            "file": "zettelkasten/Dynamicke scanovani.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Dynamicka alokace pameti.md",
+            "file": "zettelkasten/Dynamicke scanovani.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Dynamicka alokace pameti.md",
+                "file": "zettelkasten/Dynamicke scanovani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,8 @@
   },
   "active": "b8df95ab2d46c2e3",
   "lastOpenFiles": [
+    "zettelkasten/Dynamicke scanovani.md",
+    "zettelkasten/Integer zaokrouhleni.md",
     "zettelkasten/Dynamicka alokace pameti.md",
     "zettelkasten/Eratosthenovo sito.md",
     "zettelkasten/Harmonicka suma.md",
@@ -108,8 +110,6 @@
     "zettelkasten/Null pointer.md",
     "zettelkasten/Multidimenzionalni pole.md",
     "zettelkasten/Nacitani znaku.md",
-    "zettelkasten/Realna delka pole.md",
-    "zettelkasten/pole.md",
-    "resources/Pasted image 20211108120233.png"
+    "zettelkasten/Realna delka pole.md"
   ]
 }
