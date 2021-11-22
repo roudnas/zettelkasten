@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Cilovy vektor z jeho souradnic v bazi.md",
+            "file": "zettelkasten/Maximalni efektivita.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Cilovy vektor z jeho souradnic v bazi.md",
+            "file": "zettelkasten/Maximalni efektivita.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Cilovy vektor z jeho souradnic v bazi.md",
+                "file": "zettelkasten/Maximalni efektivita.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "b8df95ab2d46c2e3",
   "lastOpenFiles": [
-    "zettelkasten/Cilovy vektor z jeho souradnic v bazi.md",
+    "zettelkasten/Maximalni efektivita.md",
     "zettelkasten/Harmonicka suma.md",
-    "zettelkasten/Null pointer.md",
     "zettelkasten/Integer zaokrouhleni.md",
+    "zettelkasten/Dynamicke scanovani.md",
+    "zettelkasten/Realna delka pole.md",
     "zettelkasten/Multidimenzionalni pole.md",
     "zettelkasten/Dynamicka alokace pameti.md",
-    "zettelkasten/Dynamicke scanovani.md",
-    "zettelkasten/Eratosthenovo sito.md",
-    "zettelkasten/Realna delka pole.md",
-    "zettelkasten/Nacitani znaku.md"
+    "zettelkasten/Cilovy vektor z jeho souradnic v bazi.md",
+    "zettelkasten/Null pointer.md",
+    "zettelkasten/Eratosthenovo sito.md"
   ]
 }
