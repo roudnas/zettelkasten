@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b8df95ab2d46c2e3",
+        "id": "720b771fc1b187f3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/OSI Model.md",
+            "file": "zettelkasten/Adresace IP.md",
             "mode": "source"
           }
         },
-        "group": "69b11457b0dbb174"
+        "group": "3bab75d4ab31f420"
       },
       {
-        "id": "27c96ef644cf887e",
+        "id": "51e9e1e94cabd0a0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/OSI Model.md",
+            "file": "zettelkasten/Adresace IP.md",
             "mode": "preview"
           }
         },
-        "group": "69b11457b0dbb174"
+        "group": "3bab75d4ab31f420"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/OSI Model.md",
+                "file": "zettelkasten/Adresace IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b8df95ab2d46c2e3",
+  "active": "720b771fc1b187f3",
   "lastOpenFiles": [
-    "zettelkasten/OSI Model.md",
-    "zettelkasten/Typy sitove komunikace.md",
-    "zettelkasten/BI-DBS.md",
-    "zettelkasten/BI-PSI.md",
-    "zettelkasten/Typy strukturovanych dotazu.md",
-    "resources/communication_types.png",
-    "resources/communication_lines.png",
-    "zettelkasten/Typy linek v PS.md",
+    "zettelkasten/Adresace IP.md",
+    "resources/osi_model.png",
     "zettelkasten/Zakladni topologie siti.md",
-    "zettelkasten/Eratosthenovo sito.md"
+    "zettelkasten/Nacitani znaku.md",
+    "zettelkasten/Integer zaokrouhleni.md",
+    "zettelkasten/Komunikace mezi vrstvami.md",
+    "zettelkasten/Typy strukturovanych dotazu.md",
+    "zettelkasten/Typy sitove komunikace.md",
+    "zettelkasten/Typy linek v PS.md",
+    "zettelkasten/Taxonomie siti.md"
   ]
 }

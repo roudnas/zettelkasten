@@ -12,6 +12,6 @@ title: Rozdeluje sitove ulohy do pomyslnych "vrstev"
 - ### Relacni
 - ### Prezentacni
 - ### Aplikacni
-![[Pasted image 20220214133833.png|500]]
+![[osi_model.png|500]]
 ## references
 [[BI-PSI]]
