@@ -7,8 +7,11 @@
         "id": "b8df95ab2d46c2e3",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "zettelkasten/Maximalni efektivita.md",
+            "mode": "source"
+          }
         },
         "group": "69b11457b0dbb174"
       },
@@ -18,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Typy strukturovanych dotazu.md",
+            "file": "zettelkasten/Maximalni efektivita.md",
             "mode": "preview"
           }
         },
@@ -78,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten/Maximalni efektivita.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +101,15 @@
   },
   "active": "b8df95ab2d46c2e3",
   "lastOpenFiles": [
-    "zettelkasten/Typy strukturovanych dotazu.md",
-    "zettelkasten/BI-DBS.md",
+    "zettelkasten/Maximalni efektivita.md",
     "zettelkasten/Cilovy vektor z jeho souradnic v bazi.md",
     "zettelkasten/Dynamicka alokace pameti.md",
+    "zettelkasten/Typy strukturovanych dotazu.md",
+    "zettelkasten/Integer zaokrouhleni.md",
     "zettelkasten/Multidimenzionalni pole.md",
     "zettelkasten/Nacitani znaku.md",
     "zettelkasten/Null pointer.md",
-    "zettelkasten/Integer zaokrouhleni.md",
-    "resources/eratosthen-sieve.png",
-    "resources/dynamic_allocation.png"
+    "zettelkasten/Realna delka pole.md",
+    "zettelkasten/BI-DBS.md"
   ]
 }
