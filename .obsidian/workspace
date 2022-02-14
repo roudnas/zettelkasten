@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Maximalni efektivita.md",
+            "file": "zettelkasten/Typy strukturovanych dotazu.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Maximalni efektivita.md",
+            "file": "zettelkasten/Typy strukturovanych dotazu.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Maximalni efektivita.md",
+                "file": "zettelkasten/Typy strukturovanych dotazu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,10 +101,10 @@
   },
   "active": "b8df95ab2d46c2e3",
   "lastOpenFiles": [
+    "zettelkasten/Typy strukturovanych dotazu.md",
     "zettelkasten/Maximalni efektivita.md",
     "zettelkasten/Cilovy vektor z jeho souradnic v bazi.md",
     "zettelkasten/Dynamicka alokace pameti.md",
-    "zettelkasten/Typy strukturovanych dotazu.md",
     "zettelkasten/Integer zaokrouhleni.md",
     "zettelkasten/Multidimenzionalni pole.md",
     "zettelkasten/Nacitani znaku.md",
