@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Typy strukturovanych dotazu.md",
+            "file": "zettelkasten/OSI Model.md",
             "mode": "source"
           }
         },
         "group": "69b11457b0dbb174"
       },
       {
-        "id": "4378f0b74dbbd732",
+        "id": "27c96ef644cf887e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Typy strukturovanych dotazu.md",
+            "file": "zettelkasten/OSI Model.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Typy strukturovanych dotazu.md",
+                "file": "zettelkasten/OSI Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "b8df95ab2d46c2e3",
   "lastOpenFiles": [
+    "zettelkasten/OSI Model.md",
+    "zettelkasten/Typy sitove komunikace.md",
+    "zettelkasten/BI-DBS.md",
+    "zettelkasten/BI-PSI.md",
     "zettelkasten/Typy strukturovanych dotazu.md",
-    "zettelkasten/Maximalni efektivita.md",
-    "zettelkasten/Cilovy vektor z jeho souradnic v bazi.md",
-    "zettelkasten/Dynamicka alokace pameti.md",
-    "zettelkasten/Integer zaokrouhleni.md",
-    "zettelkasten/Multidimenzionalni pole.md",
-    "zettelkasten/Nacitani znaku.md",
-    "zettelkasten/Null pointer.md",
-    "zettelkasten/Realna delka pole.md",
-    "zettelkasten/BI-DBS.md"
+    "resources/communication_types.png",
+    "resources/communication_lines.png",
+    "zettelkasten/Typy linek v PS.md",
+    "zettelkasten/Zakladni topologie siti.md",
+    "zettelkasten/Eratosthenovo sito.md"
   ]
 }
