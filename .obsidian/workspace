@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Adresace IP.md",
+            "file": "zettelkasten/Prefix IP adres.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Adresace IP.md",
+            "file": "zettelkasten/Prefix IP adres.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Adresace IP.md",
+                "file": "zettelkasten/Prefix IP adres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "720b771fc1b187f3",
   "lastOpenFiles": [
+    "zettelkasten/Prefix IP adres.md",
     "zettelkasten/Adresace IP.md",
     "resources/osi_model.png",
     "zettelkasten/Zakladni topologie siti.md",
@@ -109,7 +110,6 @@
     "zettelkasten/Komunikace mezi vrstvami.md",
     "zettelkasten/Typy strukturovanych dotazu.md",
     "zettelkasten/Typy sitove komunikace.md",
-    "zettelkasten/Typy linek v PS.md",
-    "zettelkasten/Taxonomie siti.md"
+    "zettelkasten/Typy linek v PS.md"
   ]
 }
