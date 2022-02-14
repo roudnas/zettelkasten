@@ -7,21 +7,18 @@
         "id": "b8df95ab2d46c2e3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "zettelkasten/Maximalni efektivita.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "69b11457b0dbb174"
       },
       {
-        "id": "575fe6b4630f0e29",
+        "id": "4378f0b74dbbd732",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Maximalni efektivita.md",
+            "file": "zettelkasten/Typy strukturovanych dotazu.md",
             "mode": "preview"
           }
         },
@@ -81,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Maximalni efektivita.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +97,15 @@
   },
   "active": "b8df95ab2d46c2e3",
   "lastOpenFiles": [
-    "zettelkasten/Maximalni efektivita.md",
-    "zettelkasten/Harmonicka suma.md",
-    "zettelkasten/Integer zaokrouhleni.md",
-    "zettelkasten/Dynamicke scanovani.md",
-    "zettelkasten/Realna delka pole.md",
-    "zettelkasten/Multidimenzionalni pole.md",
-    "zettelkasten/Dynamicka alokace pameti.md",
+    "zettelkasten/Typy strukturovanych dotazu.md",
+    "zettelkasten/BI-DBS.md",
     "zettelkasten/Cilovy vektor z jeho souradnic v bazi.md",
+    "zettelkasten/Dynamicka alokace pameti.md",
+    "zettelkasten/Multidimenzionalni pole.md",
+    "zettelkasten/Nacitani znaku.md",
     "zettelkasten/Null pointer.md",
-    "zettelkasten/Eratosthenovo sito.md"
+    "zettelkasten/Integer zaokrouhleni.md",
+    "resources/eratosthen-sieve.png",
+    "resources/dynamic_allocation.png"
   ]
 }
