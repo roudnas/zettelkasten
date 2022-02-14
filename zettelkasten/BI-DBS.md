@@ -2,3 +2,6 @@
 
 # BI-DBS
 https://courses.fit.cvut.cz/BI-DBS/
+
+## references
+[[Povinne predmety]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Prefix IP adres.md",
+            "file": "zettelkasten/Untitled.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Prefix IP adres.md",
+            "file": "zettelkasten/Untitled.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Prefix IP adres.md",
+                "file": "zettelkasten/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "720b771fc1b187f3",
   "lastOpenFiles": [
+    "zettelkasten/Untitled.md",
+    "zettelkasten/Datove formaty.md",
+    "zettelkasten/Taxonomie siti.md",
     "zettelkasten/Prefix IP adres.md",
-    "zettelkasten/Adresace IP.md",
-    "resources/osi_model.png",
-    "zettelkasten/Zakladni topologie siti.md",
+    "zettelkasten/OSI Model.md",
     "zettelkasten/Nacitani znaku.md",
-    "zettelkasten/Integer zaokrouhleni.md",
+    "zettelkasten/Multidimenzionalni pole.md",
+    "zettelkasten/Maximalni efektivita.md",
     "zettelkasten/Komunikace mezi vrstvami.md",
-    "zettelkasten/Typy strukturovanych dotazu.md",
-    "zettelkasten/Typy sitove komunikace.md",
-    "zettelkasten/Typy linek v PS.md"
+    "zettelkasten/Integer zaokrouhleni.md"
   ]
 }
