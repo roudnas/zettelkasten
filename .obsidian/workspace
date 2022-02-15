@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Binarni vs textove soubory.md",
+            "file": "zettelkasten/Adresace IP.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Binarni vs textove soubory.md",
+            "file": "zettelkasten/Adresace IP.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Binarni vs textove soubory.md",
+                "file": "zettelkasten/Adresace IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "720b771fc1b187f3",
+  "active": "51e9e1e94cabd0a0",
   "lastOpenFiles": [
-    "zettelkasten/Binarni vs textove soubory.md",
-    "zettelkasten/Datove formaty.md",
+    "zettelkasten/Adresace IP.md",
+    "zettelkasten/BI-PA1.md",
+    "zettelkasten/Zakladni topologie siti.md",
+    "zettelkasten/Typy strukturovanych dotazu.md",
+    "zettelkasten/Typy sitove komunikace.md",
+    "zettelkasten/Typy linek v PS.md",
     "zettelkasten/Taxonomie siti.md",
-    "zettelkasten/Prefix IP adres.md",
-    "zettelkasten/OSI Model.md",
-    "zettelkasten/Nacitani znaku.md",
-    "zettelkasten/Multidimenzionalni pole.md",
-    "zettelkasten/Maximalni efektivita.md",
-    "zettelkasten/Komunikace mezi vrstvami.md",
-    "zettelkasten/Integer zaokrouhleni.md"
+    "zettelkasten/Realna delka pole.md",
+    "zettelkasten/Otevrene vs zavrene datove formaty.md",
+    "zettelkasten/OSI Model.md"
   ]
 }
