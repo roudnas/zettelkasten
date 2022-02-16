@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Von Neumannova Architektura.md",
+            "file": "zettelkasten/Zakladni topologie siti.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Von Neumannova Architektura.md",
+            "file": "zettelkasten/Zakladni topologie siti.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Von Neumannova Architektura.md",
+                "file": "zettelkasten/Zakladni topologie siti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "720b771fc1b187f3",
   "lastOpenFiles": [
-    "zettelkasten/Von Neumannova Architektura.md",
-    "zettelkasten/Typy strukturovanych dotazu.md",
-    "resources/von_neumann.png",
-    "resources/rdf_model.png",
-    "zettelkasten/Adresace IP.md",
-    "zettelkasten/BI-PA1.md",
     "zettelkasten/Zakladni topologie siti.md",
     "zettelkasten/Typy sitove komunikace.md",
-    "zettelkasten/Typy linek v PS.md",
-    "zettelkasten/Taxonomie siti.md"
+    "zettelkasten/Von Neumannova Architektura.md",
+    "zettelkasten/Typy strukturovanych dotazu.md",
+    "zettelkasten/Harmonicka suma.md",
+    "zettelkasten/Integer zaokrouhleni.md",
+    "zettelkasten/Komunikace mezi vrstvami.md",
+    "zettelkasten/Dynamicka alokace pameti.md",
+    "zettelkasten/Cilovy vektor z jeho souradnic v bazi.md",
+    "zettelkasten/Datove schemata.md"
   ]
 }
