@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Zakladni topologie siti.md",
+            "file": "zettelkasten/Okoli bodu.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Zakladni topologie siti.md",
+            "file": "zettelkasten/Okoli bodu.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Zakladni topologie siti.md",
+                "file": "zettelkasten/Okoli bodu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "720b771fc1b187f3",
   "lastOpenFiles": [
-    "zettelkasten/Zakladni topologie siti.md",
+    "zettelkasten/Okoli bodu.md",
+    "zettelkasten/Hromadny  bod mnoziny.md",
+    "zettelkasten/Typy linek v PS.md",
     "zettelkasten/Typy sitove komunikace.md",
-    "zettelkasten/Von Neumannova Architektura.md",
-    "zettelkasten/Typy strukturovanych dotazu.md",
+    "zettelkasten/OSI Model.md",
+    "zettelkasten/Nacitani znaku.md",
     "zettelkasten/Harmonicka suma.md",
-    "zettelkasten/Integer zaokrouhleni.md",
-    "zettelkasten/Komunikace mezi vrstvami.md",
-    "zettelkasten/Dynamicka alokace pameti.md",
-    "zettelkasten/Cilovy vektor z jeho souradnic v bazi.md",
-    "zettelkasten/Datove schemata.md"
+    "zettelkasten/Zakladni topologie siti.md",
+    "zettelkasten/Von Neumannova Architektura.md",
+    "zettelkasten/Typy strukturovanych dotazu.md"
   ]
 }
