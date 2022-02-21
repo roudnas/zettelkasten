@@ -103,13 +103,13 @@
   "lastOpenFiles": [
     "zettelkasten/Okoli bodu.md",
     "zettelkasten/Hromadny  bod mnoziny.md",
-    "zettelkasten/Typy linek v PS.md",
-    "zettelkasten/Typy sitove komunikace.md",
-    "zettelkasten/OSI Model.md",
-    "zettelkasten/Nacitani znaku.md",
-    "zettelkasten/Harmonicka suma.md",
     "zettelkasten/Zakladni topologie siti.md",
+    "zettelkasten/Typy sitove komunikace.md",
     "zettelkasten/Von Neumannova Architektura.md",
-    "zettelkasten/Typy strukturovanych dotazu.md"
+    "zettelkasten/Typy strukturovanych dotazu.md",
+    "zettelkasten/Harmonicka suma.md",
+    "zettelkasten/Integer zaokrouhleni.md",
+    "zettelkasten/Komunikace mezi vrstvami.md",
+    "zettelkasten/Dynamicka alokace pameti.md"
   ]
 }
