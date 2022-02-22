@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Okoli bodu.md",
+            "file": "zettelkasten/Null pointer v C++.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/Okoli bodu.md",
+            "file": "zettelkasten/Null pointer v C++.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Okoli bodu.md",
+                "file": "zettelkasten/Null pointer v C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "720b771fc1b187f3",
   "lastOpenFiles": [
-    "zettelkasten/Okoli bodu.md",
+    "zettelkasten/Null pointer v C++.md",
+    "zettelkasten/Dynamicka alokace v C++.md",
     "zettelkasten/Hromadny  bod mnoziny.md",
+    "zettelkasten/Okoli bodu.md",
     "zettelkasten/Zakladni topologie siti.md",
     "zettelkasten/Typy sitove komunikace.md",
     "zettelkasten/Von Neumannova Architektura.md",
     "zettelkasten/Typy strukturovanych dotazu.md",
     "zettelkasten/Harmonicka suma.md",
-    "zettelkasten/Integer zaokrouhleni.md",
-    "zettelkasten/Komunikace mezi vrstvami.md",
-    "zettelkasten/Dynamicka alokace pameti.md"
+    "zettelkasten/Integer zaokrouhleni.md"
   ]
 }
