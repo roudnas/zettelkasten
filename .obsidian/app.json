@@ -3,5 +3,6 @@
   "newFileFolderPath": "zettelkasten",
   "attachmentFolderPath": "resources",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false
 }
